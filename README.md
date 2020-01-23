@@ -1,2 +1,2 @@
 # Utility
-Useful functionality
+This houses data structures and classes that are handy
