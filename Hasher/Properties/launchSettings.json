@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hasher": {
+      "commandName": "Project",
+      "commandLineArgs": "cooler=key"
+    }
+  }
+}
